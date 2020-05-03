@@ -16,6 +16,8 @@ public class Proyecto2 {
      */
     public static void main(String[] args) {
      System.out.println("Hola mundo este es mi primer programa");
+        System.out.println("Vamos a hacer un push");
+        System.out.println("Una modificacion para hacer otro push");
     }
     
 }
